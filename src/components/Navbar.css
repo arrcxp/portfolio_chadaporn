@@ -1,0 +1,33 @@
+.navbar__ul{
+    position: absolute;
+    bottom: 24px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    list-style-type: none;
+}
+
+.navbar__ul > li > a{
+    margin: 0 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 500;
+    color: var(--grey);
+}
+
+.navbar__li > a.active-link {
+    color: var(--blue);
+}
+
+@media screen and (max-width: 500px) {
+    .navbar__ul > li > a{
+       font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    .navbar__ul > li > a{
+       font-size: 16px;
+    }
+}

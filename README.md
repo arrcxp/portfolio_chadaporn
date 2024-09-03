@@ -1,3 +1,7 @@
+# https://arrcxp.github.io/portfolio_chadaporn/
+
+# https://www.figma.com/design/JzGqjb5hjXNnCdts43alVU/portfolio?node-id=0-1&t=ZugDL0s8q4upMb69-1
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
